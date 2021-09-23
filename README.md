@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnaudsa/)
 
+# Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
+
+Meu nome é Arnaud e eu sou engenheiro de software.
+
 ### Hi there 👋
 
 <!--
