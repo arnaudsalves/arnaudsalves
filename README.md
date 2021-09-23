@@ -6,7 +6,11 @@
 
 Meu nome é Arnaud e eu sou engenheiro de software.
 
-### Hi there 👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaudsalves&show_icons=true&count_private=true&locale=pt-BR" alt="arnaudsalves" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudsalves&layout=compact&langs_count=7&count_private=true&locale=pt-BR" alt="arnaudsalves" />
+</div>
+
 
 <!--
 **arnaudsalves/arnaudsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
